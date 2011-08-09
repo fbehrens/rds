@@ -1,0 +1,15 @@
+$:.unshift 'lib'
+require 'rds'
+
+require 'rake'
+desc "import location from Domino Directory"
+task :location do
+    require 'rdomino'
+    require 'rdomino-db'
+    require 'rds/registration/base'
+    Rdomino::Sync::Merge.new(
+      Rdomino::Database[:bayer_directory].view('dirsync/fullname') => 
+                   Rdomino::Database[:inventory].view('system/key/owner'),
+      :location => :owner_location ).process
+end
+ 

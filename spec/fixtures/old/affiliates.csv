@@ -1,0 +1,14 @@
+nr  ,name                          ,tk      ,region,country,partner_id,partner_default,doc_modified
+1251,Bayer Business Services GmbH  ,bbs     ,D     ,Germany,907820    ,1              ,16.04.08
+1249,Bayer HealthCare AG           ,bhc     ,D     ,Germany,4136519   ,1              ,16.04.08
+0353,Bayer HealthCare LLC          ,bhc     ,NAFTA ,US     ,4136519   ,               ,16.04.08
+2001,Bayer Schering Pharma AG      ,bhc     ,D     ,Germany,0         ,               ,16.04.08
+8001,Bayer Cropscience AG          ,bcs     ,D     ,Germany,0         ,               ,16.04.08
+0001,Bayer Material Science GmbH   ,bms     ,D     ,Germany,222222    ,1              ,16.04.08
+8002,Bayer BCS             AG      ,bcs     ,D     ,Germany,0         ,               ,16.04.08
+1252,Bayer Technology Services GmbH,bts     ,D     ,Germany,907928    ,1              ,16.04.08
+8003,Currenta                      ,currenta,D     ,Germany,0         ,               ,16.04.08
+8004,Bayer Zebra                   ,zebra   ,D     ,Germany,0         ,               ,16.04.08
+8005,Other Company                 ,other   ,D     ,Germany,0         ,               ,16.04.08
+8006,LANXESS AG                    ,lanxess ,D     ,Germany,0         ,               ,16.04.08
+8007,BAYER AG                      ,bag     ,D     ,Germany,0         ,               ,16.04.08

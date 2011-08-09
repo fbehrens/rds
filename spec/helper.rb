@@ -1,0 +1,5 @@
+require 'rubygems'
+require 'bundler/setup'
+require 'rds'
+require 'rds/fixtures'
+require 'output_catcher'

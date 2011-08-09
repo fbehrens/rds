@@ -1,0 +1,8 @@
+Re: |
+- |
+  ident,database,title,icon,consistent,multi,sorted
+  a    ,aa      ,mydb ,a   ,true      ,a|b  ,42
+- |
+  ident        ,database,title,icon,consistent,multi,sorted
+  s1!!test.nsf ,ab
+  s2!!test.nsf ,aa      ,mydb ,a   ,true      ,a|b  ,42

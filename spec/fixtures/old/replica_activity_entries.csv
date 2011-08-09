@@ -1,0 +1,8 @@
+COUNT,READ,WRITE,ENTRY_NAME            , replica_activity
+  1,  2,  3     ,Frank Behrens/        , replica_activity_1
+  2,  2,  3     ,Dirk Schnell/         , replica_activity_1
+  3,  2,  3     ,Michael Schmitz/PHCHI/, replica_activity_1
+ 20,  2,  3     ,BY-GDC82              , replica_activity_1
+  4,  2,  3     ,Unknown Person        , replica_activity_1
+100,100, 50     ,Frank Behrens/        , replica_activity_2
+  3,  2,  3     ,Michael Schmitz/PHCHI/, replica_activity_2

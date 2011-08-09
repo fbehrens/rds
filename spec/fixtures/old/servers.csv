@@ -1,0 +1,13 @@
+NAME              ,ADDRESSBOOK   ,TITLE                                 ,DOMAIN        ,CLUSTERNAME,DA    ,VERSION            ,DOC_MODIFIED       ,DOC_UNID,CATALOG
+EU-MAIL01/DE/BAYER,BAYERNOTES    ,"GDC Mail Server (TanGo, BBS); mail  ",BAYERNOTES    ,EUMAILCL01 ,da.nsf,Release 7.0.3 HF333,2008-12-24 18:00:00,S02     ,
+EU-MAIL02/DE/BAYER,BAYERNOTES    ,"GDC Mail Server (TanGo, BBS); mail  ",BAYERNOTES    ,EUMAILCL01 ,da.nsf,Release 7.0.3 HF333,2008-12-24 18:00:00,S03     ,
+EU-APPL01/DE/BAYER,BAYERNOTES    ,"GDC Application Server (TanGo); appl",BAYERNOTES    ,EUAPPLCL01 ,da.nsf,Release 7.0.3 HF333,2008-12-24 18:00:00,S04     ,
+EU-APPL02/DE/BAYER,BAYERNOTES    ,"GDC Application Server (TanGo); appl",BAYERNOTES    ,EUAPPLCL01 ,da.nsf,Release 7.0.3 HF333,2008-12-24 18:00:00,S05     ,
+EU-APPL03/DE/BAYER,BAYERNOTES    ,"GDC Application Server (TanGo); appl",BAYERNOTES    ,           ,da.nsf,Release 7.0.3 HF333,2008-12-24 18:00:00,S06     ,
+BY-BHC012/DE/BAYER,BAYERNOTES    ,"BHC Application Server; appl        ",BAYERNOTES    ,           ,da.nsf,Release 7.0.3 HF333,2008-12-24 18:00:00,S07     ,
+BY-GDC82/DE/BAYER ,BAYERNOTES    ,"DAM Application Server; appl        ",BAYERNOTES    ,           ,da.nsf,Release 7.0.3 HF333,2008-12-24 18:00:00,S08     ,!!dam\catalog.nsf
+US-MAIL01/US/BAYER,BAYER-US-NOTES,"US Mail Server; mail                ",BAYER-US-NOTES,USMAILCL01 ,da.nsf,Release 7.0.3 HF333,2008-12-24 18:00:00,S09     , 
+US-MAIL02/US/BAYER,BAYER-US-NOTES,"US Mail Server; mail                ",BAYER-US-NOTES,USMAILCL01 ,da.nsf,Release 7.0.3 HF333,2008-12-24 18:00:00,S10     , 
+US-APPL01/US/BAYER,BAYER-US-NOTES,"US Application Server; appl         ",BAYER-US-NOTES,USAPPLCL01 ,da.nsf,Release 7.0.3 HF333,2008-12-24 18:00:00,S11     , 
+US-APPL02/US/BAYER,BAYER-US-NOTES,"US Application Server; appl         ",BAYER-US-NOTES,USAPPLCL01 ,da.nsf,Release 7.0.3 HF333,2008-12-24 18:00:00,S12     , 
+                                                                                                       

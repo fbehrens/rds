@@ -1,0 +1,11 @@
+Replica: |
+- |
+  ident        ,database,title,icon,consistent,databasescript_script
+  s0!!test.nsf ,aa      ,mydb ,a   ,true      ,aa
+  s1!!test.nsf ,aa      ,mydb ,a   ,false     ,ab
+  s2!!test.nsf ,aa      ,mydb ,ab  ,false     ,aa
+  s1!!test1.nsf,bb      ,db1  ,abc ,true      ,b
+Server: |
+- |
+  ident
+  BY-RZ05/Server/LEV/DE/BAYER
