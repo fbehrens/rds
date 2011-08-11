@@ -61,7 +61,7 @@ Installing
 
 To install rds, use the following command:
 
-    $ gem install yard
+    $ gem install rds
     
 (Add `sudo` if you're installing under a POSIX system as root)
     
